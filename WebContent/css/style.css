@@ -1,0 +1,30 @@
+body{background-color: #107ef8; color: #ebebeb; box-sizing: border-box;}
+
+h1{
+	text-align: center;
+	color:#fff;
+	font-size: 2em;
+	width: 100%;
+}
+
+.menu{
+	width:30%;
+	margin: 0 35%;
+	display: inline-block;
+}
+.menu li{
+	display: inline-block;
+	list-style: none;
+	margin: 5px;
+	padding: 7px;
+	font-size: 1.3em;
+	background-color: #182dba;
+}
+.menu a{
+	text-decoration: none;
+}
+.principal{
+	width: 40%;
+	margin 0 10%;
+	border-color: 1px solid #182dba;
+}
